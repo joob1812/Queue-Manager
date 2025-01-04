@@ -1,0 +1,10 @@
+com\queue\management\controllers\AdminController.class
+com\queue\management\QueueManagementApplication.class
+com\queue\management\controllers\AgentController.class
+com\queue\management\models\Ticket.class
+com\queue\management\models\Role.class
+com\queue\management\services\VisitorService.class
+com\queue\management\services\AdminService.class
+com\queue\management\models\Queue.class
+com\queue\management\services\AgentService.class
+com\queue\management\controllers\VisitorController.class
